@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        {
+          "titulo": "SENA AGROINDUSTRIAL",
+          "fecha_inicial": "Dic 2011",
+          "fecha_final": "Nov 2017",
+          "years": "5 años",
+          "text": "Prestación de servicios profesionales para apoyar el proceso de línea de producción mediante el diseño y equipo adecuación didáctica y gráfica de recursos educativos de cursos de formación titulada y complementaria con mediación virtual y a distancia pertenecientes a la oferta educativa SENA en lo que relacionado con la programación, pruebas y ajustes de aplicativos, paginas web y demás Objetos Virtuales de Aprendizaje (OVAs)."
+        },
+        {
+          "titulo": "SEOIMPACTO",
+          "fecha_inicial": "Jul 2018",
+          "fecha_final": "Dic 2018",
+          "years": "6 meses",
+          "text": "Prestación de servicios profesionales con el objetivo de desarrollar páginas Web en <b>HTML5</b>, <b>CSS</b>, <b>JAVASCRIPT</b> y <b>WORDPRESS</b> de acuerdo a las necesidades del cliente, implementanto tecnologias informaticas."
+        },
+        {
+          "titulo": "FREELANCE",
+          "fecha_inicial": "Ene 2019",
+          "fecha_final": "May 2019",
+          "years": "5 meses",
+          "text": "Proyectos realizados para diferentes clientes utilizando nuevas tecnologias como: <b>firebase</b>, <b>Node.js</b>, <b>express</b>, <b>framework7</b>."
+        }
+    ]
+}
