@@ -20,5 +20,8 @@
   "homepage": "https://github.com/cristianh/BackEnd-Hv#readme",
   "dependencies": {
     "json-server": "^0.16.3"
+  },
+  "engines": {
+    "node": "14.x"
   }
 }
