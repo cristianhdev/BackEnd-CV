@@ -1,6 +1,7 @@
 {
   "descriptions": [
     {
+      "id":1,
       "titulo": "SENA AGROINDUSTRIAL",
       "fecha_inicial": "Dic 2011",
       "fecha_final": "Nov 2017",
@@ -8,6 +9,7 @@
       "text": "Prestación de servicios profesionales para apoyar el proceso de línea de producción mediante el diseño y equipo adecuación didáctica y gráfica de recursos educativos de cursos de formación titulada y complementaria con mediación virtual y a distancia pertenecientes a la oferta educativa SENA en lo relacionado con la programación, pruebas y ajustes de aplicativos, paginas web y demás Objetos Virtuales de Aprendizaje (OVAs)."
     },
     {
+      "id":2,
       "titulo": "SEOIMPACTO",
       "fecha_inicial": "Jul 2018",
       "fecha_final": "Dic 2018",
@@ -15,6 +17,7 @@
       "text": "Prestación de servicios profesionales con el objetivo de desarrollar páginas Web en <b>HTML5</b>, <b>CSS</b>, <b>JAVASCRIPT</b> y <b>WORDPRESS</b> de acuerdo a las necesidades del cliente, implementanto tecnologias informaticas."
     },
     {
+      "id":3,
       "titulo": "FREELANCE",
       "fecha_inicial": "Ene 2019",
       "fecha_final": "Actual",
@@ -24,14 +27,17 @@
   ],
   "portafolio": [
     {
+      "id":1,
       "titulo": "PLANTO S.A.S",
       "descripcion": "<p>Página Web para la empresa <b>PLANTO S.A.S</b>, ubicada en la ciudad de <b>Armenia - Quindío</b>,  con el propósito de comercializar y mostrar su oferta de productos,  desarrollo realizado para la empresa <b>SEOIMPACTO</b>, en la cual hice parte como <b>Desarrollador Web</b>.</p><p>Para la implementación y entrega de esta página se utilizaron diversos lenguajes de etiquetado y programación tales como: <b>HTML5</b>, <b>CSS3</b> y <b>JAVASCRIPT</b>.</p>"
     },
     {
+      "id":2,
       "titulo": "ORIZONMOBILE",
       "descripcion": "<p>Desarrollo <b>Freelance</b> de prototipo tipo tienda virtual para venta de celulares y planes de internet, enfocada  al <b>Frontend</b>.</p><p>Para la implementación y entrega de esta página se utilizo <b>Figma</b>, <b>CSS Flexbox</b> y <b>Vue.js V3</b>.</p>"
     },
     {
+      "id":3,
       "titulo": "NATURALWAYU",
       "descripcion": "<p>Página web desarrollada  en <b>Wordpress</b> como <b>Freelance</b>, para la empresa <b>Naturalwayu</b> (Colombia-Ecuador), para la oferta y venta de sus productos, se implemento catalogo de productos, pasarela de pago y multi-página para los paises de <b>Canada</b>, <b>Estados Unidos</b>, <b>Ecuador</b> y <b>Colombia</b>.</p>"
     },
