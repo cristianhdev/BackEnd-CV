@@ -42,14 +42,17 @@
       "descripcion": "<p>Página web desarrollada  en <b>Wordpress</b> como <b>Freelance</b>, para la empresa <b>Naturalwayu</b> (Colombia-Ecuador), para la oferta y venta de sus productos, se implemento catalogo de productos, pasarela de pago y multi-página para los paises de <b>Canada</b>, <b>Estados Unidos</b>, <b>Ecuador</b> y <b>Colombia</b>.</p>"
     },
     {
+      "id":4,
       "titulo": "PLASTERING",
       "descripcion": "<p>Página Web para la empresa estadounidense  <b>Quality Finish</b> de Miami Florida y su oferta de servicios y mano de obra para instalación de sistemas modulares <b>Drywall</b>, desarrollo realizado para la empresa <b>SEOIMPACTO</b>, de la cual hice parte como <b>Desarrollador Web</b>.</p><p>Para la implementación y entrega de esta página se utilizaron diversos lenguajes de etiquetado y programación tales como: <b>HTML5</b>, <b>CSS3</b> y <b>JAVASCRIPT</b>.</p>"
     },
     {
+      "id":5,
       "titulo": "QUALITY RUFING",
       "descripcion": "<p>Pagina Web para la empresa estadounidense <b>RH QUALITTY ROOFING</b> y su oferta de servicios en reparación e instalación de techos, desarrollo realizado para la empresa <b>SEOIMPACTO</b>, de la cual hice parte como <b>Desarrollador Web</b>.</p><p>Para la implementación y entrega de esta página se utilizaron diversos lenguajes de etiquetado y programación tales como: <b>HTML5</b>, <b>CSS3</b> y <b>JAVASCRIPT</b>.</p>"
     },
     {
+      "id":6,
       "titulo": "APP MOBILE PRESTAMOS",
       "descripcion": "<p>Aplicación Mobile para administración de prestamos, implementa geolocalizacion, control de rutas, registro, actualizacion y eliminacion de usuarios.</p><p>Para la implementación y entrega de la app se utilizo <b>Firebase Cloud Funtions</b>, <b>VUEjs</b> y <b>Framework7</b>.</p>"
     }
