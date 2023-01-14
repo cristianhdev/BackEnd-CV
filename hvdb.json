@@ -28,26 +28,8 @@
   "portafolio": [
     {
       "id":1,
-      "titulo": "PLANTO S.A.S",
-      "descripcion-portafolio": "<p>Página Web para la empresa <b>PLANTO S.A.S</b>, ubicada en la ciudad de <b>Armenia - Quindío</b>,  con el propósito de comercializar y mostrar su oferta de productos,  desarrollo realizado para la empresa <b>SEOIMPACTO</b>, en la cual hice parte como <b>Desarrollador Web</b>.</p><p>Para la implementación y entrega de esta página se utilizaron diversos lenguajes de etiquetado y programación tales como: <b>HTML5</b>, <b>CSS3</b> y <b>JAVASCRIPT</b>.</p>",
-      "img": "./img/Plantosas-cropt.66062635.png",
-      "descripcion": "<p>Página Web para la empresa <b>PLANTO S.A.S</b>, ubicada en la ciudad de <b>Armenia - Quindío</b>,  con el propósito de comercializar y mostrar su oferta de productos,  desarrollo realizado para la empresa <b>SEOIMPACTO</b>, en la cual hice parte como <b>Desarrollador Web</b>.</p><p>Para la implementación y entrega de esta página se utilizaron diversos lenguajes de etiquetado y programación tales como: <b>HTML5</b>, <b>CSS3</b> y <b>JAVASCRIPT</b>.</p>",
-      "url": "http://plantosas.com",
-      "guihuburl": null,
-      "icons": [
-            {
-              "url": "./img/icons/html5-brands1.svg",
-              "text": "HTML5"
-            },
-            {
-              "url": "../assets/ico/css3-brands.svg",
-              "text": "CSS3"
-            },
-            {
-              "url": "../assets/ico/js-square-brands.svg",
-              "text": "JS"
-            }
-          ]
+      "titulo": "SIMBOLOS PATRIOS",
+      "descripcion": "<p>Página Web para la empresa <b>COLOMBIANGAME</b>, actividad interactiva sobre simbolos patrios Colombianos.</p>"     
     },
     {
       "id":2,
