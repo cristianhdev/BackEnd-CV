@@ -60,11 +60,6 @@
       "id":7,
       "titulo": "APP MOBILE PRESTAMOS",
       "descripcion": "<p>Aplicación Mobile para administración de prestamos, implementa geolocalizacion, control de rutas, registro, actualizacion y eliminacion de usuarios.</p><p>Para la implementación y entrega de la app se utilizo <b>Firebase Cloud Funtions</b>, <b>VUEjs</b> y <b>Framework7</b>.</p>"
-    },
-    {
-      "id":8,
-      "titulo": "MODULO DIDACTICO CIRCUITOS",
-      "descripcion": "Actividad Interactiva circutos electronicos para niños, para la empresa ColombianGame"
     }
   ]
 }
