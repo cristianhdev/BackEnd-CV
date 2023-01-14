@@ -60,6 +60,11 @@
       "id":7,
       "titulo": "APP MOBILE PRESTAMOS",
       "descripcion": "<p>Aplicación Mobile para administración de prestamos, implementa geolocalizacion, control de rutas, registro, actualizacion y eliminacion de usuarios.</p><p>Para la implementación y entrega de la app se utilizo <b>Firebase Cloud Funtions</b>, <b>VUEjs</b> y <b>Framework7</b>.</p>"
+    },
+    {
+      "id":8,
+      "titulo": "APP MODULO INGRESO HUELLERO ",
+      "descripcion": "<p>Aplicación realizada para el ingreso biometrio con registro de clientes<b>Firebase Cloud Funtions</b>, <b>Angular</b> y <b>CSS3</b>.</p>"
     }
   ]
 }
