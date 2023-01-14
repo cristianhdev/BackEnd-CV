@@ -64,7 +64,7 @@
     {
       "id":8,
       "titulo": "APP MODULO INGRESO HUELLERO ",
-      "descripcion": "<p>Aplicación realizada para el ingreso biometrio con registro de clientes<b>Firebase Cloud Funtions</b>, <b>Angular</b> y <b>CSS3</b>.</p>"
+      "descripcion": "<p>Aplicación realizada para el ingreso biometrio con registro de clientes <b>Firebase Cloud Funtions</b>, <b>Angular</b> y <b>CSS3</b>.</p>"
     }
   ]
 }
