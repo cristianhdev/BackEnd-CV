@@ -18,19 +18,11 @@
     },
     {
       "id":3,
-      "titulo": "FREELANCE",
-      "fecha_inicial": "Ene 2019",
-      "fecha_final": "Actual",
-      "years": "5 meses",
-      "text": "Proyectos realizados para diferentes clientes utilizando nuevas tecnologias como: <b>firebase</b>, <b>Node.js</b>, <b>express</b>, <b>framework7</b>."
-    },
-    {
-      "id":3,
       "titulo": "COLOMBIANGAME",
       "fecha_inicial": "Oct 2021",
       "fecha_final": "Jul 2022",
       "years": "7 meses",
-      "text": "Realizar proyectos interactivos (Juegos presentaciones) en HTML,CSS, JavaScript Vue.js."
+      "text": "Realizar proyectos interactivos (Juegos y  presentaciones) en HTML,CSS, JavaScript"
     }
   ],
   "portafolio": [
