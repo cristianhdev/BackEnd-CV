@@ -23,13 +23,21 @@
       "fecha_final": "Jul 2022",
       "years": "7 meses",
       "text": "Realizar proyectos interactivos (Juegos y  presentaciones) en HTML,CSS, JavaScript"
+    },
+    {
+      "id":4,
+      "titulo": "CONFINCAFE",
+      "fecha_inicial": "Oct 2020",
+      "fecha_final": "Feb 2021",
+      "years": "4 meses",
+      "text": "<ul><li>Implementacion de BackEnd en Node.js y express para sistema biometrico de ingreso.</li><li>Implementacion de Frontend en Angular para sistema biometrico de ingreso.</li></ul>"
     }
   ],
   "portafolio": [
     {
       "id":1,
       "titulo": "SIMBOLOS PATRIOS",
-      "descripcion": "<p>Página Web para la empresa <b>COLOMBIANGAME</b>, actividad interactiva sobre simbolos patrios Colombianos.</p>"     
+      "descripcion": "<p>Página Web para la empresa <b>COLOMBIANGAME</b>, actividad interactiva sobre simbolos patrios Colombianos, desarrollo realizado para la empresa <b>COLOMBIANGAME S.A.S</b>, de la cual hice parte como <b>Desarrollador Web</b>.</p><p>Para la implementación y entrega de esta página se utilizaron diversos lenguajes de etiquetado y programación tales como: <b>HTML5</b>, <b>CSS3</b> y <b>JAVASCRIPT</b>. </p>"     
     },
     {
       "id":2,
