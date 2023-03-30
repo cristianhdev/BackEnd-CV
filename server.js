@@ -4,7 +4,7 @@ const router = jsonServer.router('hvdb.json'); // <== Will be created later
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3200; // <== You can change the port
 
-
+console.log(port)
 
 
 
